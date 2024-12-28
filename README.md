@@ -24,3 +24,9 @@ This website was created as a paid project, developed specifically to meet the n
 
 <h5>GitHub Repo of </h5>[cid : Investigation-Org-Website](https://github.com/svarsha220/cid)
 
+* # <h3>MedMatch: A Healthcare Platform for Patients, Doctors, and Donors</h3>
+
+MedMatch is a web-based platform connecting patients, doctors, and donors for medical care and organ donations. Patients can request treatments and track organ needs, while doctors can manage availability and consultations. Donors can update their willingness to donate organs or blood. The admin panel allows administrators to manage users, approve requests, and ensure smooth platform operations. MedMatch aims to improve healthcare accessibility and streamline the donation process. Future plans include AI-powered matching, telemedicine integration, and blockchain for secure data storage, ensuring continued growth and efficiency in healthcare management.
+
+<h5>GitHub Repo of </h5>[MedMatch: A Healthcare Platform for Patients, Doctors, and Donors](https://github.com/svarsha220/organ)
+
