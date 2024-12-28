@@ -16,4 +16,4 @@ BioBotanica is an AI-driven application designed to identify medicinal plants an
 
 The main purpose of BioBotanica is to harness AI technologies for identifying medicinal plants and providing concise, reliable insights into their medicinal properties. It streamlines the process of plant recognition and knowledge extraction, making it an invaluable tool for researchers, herbalists, and plant enthusiasts.
 
-[BioBotanica](https://github.com/svarsha220/Miniproject_BioBotanica)
+<h5>GitHub Repo of </h5>[BioBotanica](https://github.com/svarsha220/Miniproject_BioBotanica)
