@@ -10,7 +10,7 @@
 Aspiring Full-Stack Enthusiast passionate about web development, app development, and creating user-centered digital experiences. Eager to deepen my skills in front-end and back-end technologies, I aim to contribute to building innovative applications that enhance user interaction and solve real-world problems. Motivated by a curiosity for technology and a drive to learn, I am committed to growing in these areas and exploring impactful opportunities.
 
 # Mini Projects :
-# BioBotanica: Medicinal Plant Detection
+# <h3>BioBotanica: Medicinal Plant Detection</h3>
 
 BioBotanica is an AI-driven application designed to identify medicinal plants and provide a brief summary of their medicinal properties. It combines state-of-the-art technologies in image classification, natural language processing, and data retrieval to deliver accurate and concise insights. The system simplifies the exploration of medicinal plants, making it accessible to researchers, herbalists, and plant enthusiasts.
 
