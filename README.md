@@ -11,5 +11,7 @@ Aspiring Full-Stack Enthusiast passionate about web development, app development
 
 # Mini Projects :
 # BioBotanica: Medicinal Plant Detection
-            BioBotanica is an AI-driven application designed to identify medicinal plants and provide a brief summary of their medicinal properties. It combines state-of-the-art technologies in image classification, natural language processing, and data retrieval to deliver accurate and concise insights. The system simplifies the exploration of medicinal plants, making it accessible to researchers, herbalists, and plant enthusiasts.
-            The main purpose of BioBotanica is to harness AI technologies for identifying medicinal plants and providing concise, reliable insights into their medicinal properties. It streamlines the process of plant recognition and knowledge extraction, making it an invaluable tool for researchers, herbalists, and plant enthusiasts.
+
+BioBotanica is an AI-driven application designed to identify medicinal plants and provide a brief summary of their medicinal properties. It combines state-of-the-art technologies in image classification, natural language processing, and data retrieval to deliver accurate and concise insights. The system simplifies the exploration of medicinal plants, making it accessible to researchers, herbalists, and plant enthusiasts.
+
+The main purpose of BioBotanica is to harness AI technologies for identifying medicinal plants and providing concise, reliable insights into their medicinal properties. It streamlines the process of plant recognition and knowledge extraction, making it an invaluable tool for researchers, herbalists, and plant enthusiasts.
