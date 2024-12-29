@@ -61,6 +61,8 @@ Currently working on it ..
 
 # Accomplishment Certificates :
 
+* [Won 3rd place in Riddle Sql](certificate/accomplishment/sqlriddle.jpg)
+* [Finalist in Gidy Multimedia Hackathon](certificate/accomplishment/gidy.jpg)
 
 # Event / Hackathon Certificates :
 
