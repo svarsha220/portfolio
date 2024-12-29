@@ -30,3 +30,14 @@ MedMatch is a web-based platform connecting patients, doctors, and donors for me
 
 <h5>GitHub Repo of </h5>[MedMatch: A Healthcare Platform for Patients, Doctors, and Donors](https://github.com/svarsha220/organ)
 
+* # <h3>ui-ux-projects</h3>
+
+This repository features a collection of UI/UX design projects, including poster designs, promotional videos, and mascot designs, created to enhance engagement and communicate ideas effectively.
+
+<h2>Included Projects:</h2>
+
+***Promotional Posters:*** Visually appealing designs combining modern typography, layouts, and color schemes to convey event themes and details.
+***Thematic Videos:*** Dynamic videos with motion graphics and visual effects, complementing promotional campaigns and storytelling.
+***Mascot Designs:*** Unique characters created in Figma, showcased in various poses and expressions, adaptable for branding and merchandise.
+
+<h5>GitHub Repo of </h5>[ui-ux-projects](https://github.com/svarsha220/ui-ux-projects)
