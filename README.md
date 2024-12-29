@@ -66,5 +66,13 @@ Currently working on it ..
 
 # Event / Hackathon Certificates :
 
+* [National Level Technical Symposium- BUGSMASH ](certificate/Events/bugsmach.jpg)
+* [Flipkart Grid 6.0](certificate/Events/flipkart.png)
+* [IBM Z Datathon 2023](certificate/Events/ibm2023.png)
+* [IBM Z Datathon 2024](certificate/Events/ibm2024.png)
+* [TATA Crucible Campus 2024](certificate/Events/tata crucible.png)
+* [Tata Imagination Challenge](certificate/Events/tata imagination.png)
+  
+
 
   
