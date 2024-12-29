@@ -44,7 +44,7 @@ This repository features a collection of UI/UX design projects, including poster
 
 # Experience :
 
-* **Intern at NSIC arjun vision**
-   _ _mobile application development_ _ 
-    ***( June 2024 -July 2024 )***
+* **Intern at NSIC arjun vision**\
+   _mobile application development_\
+    ***( June 2024 -July 2024 )***\
    During my internship, I gained hands-on experience in Android Studio, developing and optimizing Android applications. I worked on various features, enhancing my understanding of app development and UI/UX design.
