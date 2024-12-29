@@ -75,6 +75,15 @@ Currently working on it ..
 
 # Course Completion Certificate :
 
+* [Microsoft Azure AI Engineer Associate](certificate/course/azure.jpg)
+* [Cyber Security Threats](certificate/course/cs_threat.png)
+* [Introduction to Firewall](certificate/course/intro_to_firewall.png)
+* [Introduction to Mongo DB ](certificate/course/intro_to_mongo-db.pdf)
+* [Network Attacks in Cyber Security](certificate/course/network_attack.png)
+* [Android App Development](certificate/course/mad_certificate.pdf)
+* [Machine Learning](certificate/course/ml_certificate.pdf)
+* [Web Application Attacks](certificate/course/web_application_attacks.png)
+  
 
   
 
