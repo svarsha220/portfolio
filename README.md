@@ -34,7 +34,7 @@ MedMatch is a web-based platform connecting patients, doctors, and donors for me
 
 This repository features a collection of UI/UX design projects, including poster designs, promotional videos, and mascot designs, created to enhance engagement and communicate ideas effectively.
 
-<h2>Included Projects:</h2>
+<h5>Included Projects:</h5>
 
 * ***Promotional Posters:*** Visually appealing designs combining modern typography, layouts, and color schemes to convey event themes and details.
 * ***Thematic Videos:*** Dynamic videos with motion graphics and visual effects, complementing promotional campaigns and storytelling.
