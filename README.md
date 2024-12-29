@@ -54,6 +54,8 @@ Currently working on it ..
     ***( June 2024 -July 2024 )***\
    During my internship, I gained hands-on experience in Android Studio, developing and optimizing Android applications. I worked on various features, enhancing my understanding of app development and UI/UX design.
 
+# Event / Hackathon Certificates :
+
 * **Intern at TechnoHacks Solutions**\
    _front-end developer_\
     ***( Dec 2024 -Current )***\
