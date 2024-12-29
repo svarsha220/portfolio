@@ -102,7 +102,7 @@ Currently working on it ..
 
 * Name : Varsha S
 * Email : varsha230705@gmail.com
-   * hacker rank: https://www.hackerrank.com/profile/varsha230705
+* hacker rank: https://www.hackerrank.com/profile/varsha230705
 * Linked in : https://www.linkedin.com/in/varsha-s-4255802b2/
 * git hub : https://github.com/svarsha220/
 * ph.no : 8072680163
