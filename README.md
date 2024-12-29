@@ -83,6 +83,22 @@ Currently working on it ..
 * [Android App Development](certificate/course/mad_certificate.pdf)
 * [Machine Learning](certificate/course/ml_certificate.pdf)
 * [Web Application Attacks](certificate/course/web_application_attacks.png)
+
+ # SKILLS
+ <h3>Programing Languages:</h3>
+ * python 
+ * C
+ * Java Script
+ * Java
+ 
+ <h3>Data Base:</h3>
+ * Mongo DB
+ * SQL
+ 
+ <h3>Technical Skills:</h3>
+ * HTML ,CSS
+ * Canva ,Figma
+ * Git
   
 
   
