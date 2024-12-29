@@ -1,11 +1,11 @@
-# Contact Information
+# Contact Information :
 
 * Name : Varsha S
 * Email : varsha230705@gmail.com
 * Linked in : https://www.linkedin.com/in/varsha-s-4255802b2/
 * git hub : https://github.com/svarsha220/
 
-# About 
+# About :
 
 Aspiring Full-Stack Enthusiast passionate about web development, app development, and creating user-centered digital experiences. Eager to deepen my skills in front-end and back-end technologies, I aim to contribute to building innovative applications that enhance user interaction and solve real-world problems. Motivated by a curiosity for technology and a drive to learn, I am committed to growing in these areas and exploring impactful opportunities.
 
@@ -41,3 +41,10 @@ This repository features a collection of UI/UX design projects, including poster
 * ***Mascot Designs:*** Unique characters created in Figma, showcased in various poses and expressions, adaptable for branding and merchandise.
 
 <h5>GitHub Repo of </h5>[ui-ux-projects](https://github.com/svarsha220/ui-ux-projects)
+
+# Experience :
+
+* **Intern at NSIC arjun vision**
+   _ _mobile application development_ _ 
+    ***( June 2024 -July 2024 )***
+   During my internship, I gained hands-on experience in Android Studio, developing and optimizing Android applications. I worked on various features, enhancing my understanding of app development and UI/UX design.
