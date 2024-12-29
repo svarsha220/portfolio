@@ -86,16 +86,19 @@ Currently working on it ..
 
  # SKILLS
  <h3>Programing Languages:</h3>
+ 
  * python 
  * C
  * Java Script
  * Java
  
  <h3>Data Base:</h3>
+ 
  * Mongo DB
  * SQL
  
  <h3>Technical Skills:</h3>
+ 
  * HTML ,CSS
  * Canva ,Figma
  * Git
