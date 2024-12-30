@@ -53,7 +53,10 @@ Currently working on it ..
 * **Intern at TechnoHacks Solutions**\
    _front-end developer_\
     ***( Dec 2024 -Current )***\
-
+  
+* **Volunteer Coordinator | Drestin – National Symposium**\
+   Duration: October 2024 - November 2024\
+   **Description :** Successfully organized and managed a event named Code Crusade, ensuring smooth execution and participant engagement.
 
 # Accomplishment Certificates :
 
@@ -77,7 +80,8 @@ Currently working on it ..
 
 * [Microsoft Azure AI Engineer Associate](certificate/course/azure.jpg)
 * [Cyber Security Threats](certificate/course/cs_threat.png)
-* [Introduction to Industry 4.0 and Industrial Internet of Things](certificate/course/Introduction_to_Industry_4.0_and_Industrial_Internet_of_Things.pdf)
+* [NPTEL-Introduction to Industry 4.0 and Industrial Internet of Things](certificate/course/Introduction_to_Industry_4.0_and_Industrial_Internet_of_Things.pdf)
+* [Coursera- Cloud Developer]()
 * [Introduction to Firewall](certificate/course/intro_to_firewall.png)
 * [Introduction to Mongo DB ](certificate/course/intro_to_mongo-db.pdf)
 * [Network Attacks in Cyber Security](certificate/course/network_attack.png)
