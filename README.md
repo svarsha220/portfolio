@@ -71,11 +71,13 @@ Currently working on it ..
 * [IBM Z Day 2024 - Security Certificate](certificate/course/Security.png)
 * [IBM Z Day 2024 - AI & Data Certificate](certificate/course/Data&AI.png)
 * [IBM Z Day 2024 - IBM Z Skills Certificate](certificate/course/IbmZSkills.png)
+* [AI Tools Workshop 4.0](certificate/Events/ai-tools.png)
 
 # Course Completion Certificate :
 
 * [Microsoft Azure AI Engineer Associate](certificate/course/azure.jpg)
 * [Cyber Security Threats](certificate/course/cs_threat.png)
+* [Introduction to Industry 4.0 and Industrial Internet of Things](certificate/course/Introduction_to_Industry_4.0_and_Industrial_Internet_of_Things.pdf)
 * [Introduction to Firewall](certificate/course/intro_to_firewall.png)
 * [Introduction to Mongo DB ](certificate/course/intro_to_mongo-db.pdf)
 * [Network Attacks in Cyber Security](certificate/course/network_attack.png)
