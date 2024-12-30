@@ -79,6 +79,7 @@ Currently working on it ..
 
 # Course Completion Certificate :
 
+* [Advanced Diploma in python Programming](certificate/course/addp.jpg)
 * [Microsoft Azure AI Engineer Associate](certificate/course/azure.jpg)
 * [Cyber Security Threats](certificate/course/cs_threat.png)
 * [NPTEL-Introduction to Industry 4.0 and Industrial Internet of Things](certificate/course/Introduction_to_Industry_4.0_and_Industrial_Internet_of_Things.pdf)
