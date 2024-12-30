@@ -47,7 +47,7 @@ Currently working on it ..
 * **Intern at NSIC arjun vision**\
    _mobile application development_\
     ***( June 2024 -July 2024 )***\
-   During my internship, I gained hands-on experience in Android Studio, developing and optimizing Android applications. I worked on various features, enhancing my understanding of app development and UI/UX design.
+   During my internship, I gained hands-on experience in Android Studio, developing and optimizing Android applications. I worked on various features, enhancing my understanding of app development and UI/UX design.\
   [Internship Completion Certificate](certificate/appDev-internship.png)
 
 * **Intern at TechnoHacks Solutions**\
