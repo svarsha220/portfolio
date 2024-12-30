@@ -67,6 +67,9 @@ Currently working on it ..
 * [IBM Z Datathon 2024](certificate/Events/ibm2024.png)
 * [Tata Crucible](certificate/Events/tatacrucible.png)
 * [Tata Imagination Challenge](certificate/Events/tataimagination.png)
+* [IBM Z Day 2024 - Security Certificate](
+* [IBM Z Day 2024 - AI & Data Certificate]
+* [IBM Z Day 2024 - IBM Z Skills Certificate](
 
 # Course Completion Certificate :
 
