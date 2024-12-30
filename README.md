@@ -5,6 +5,7 @@
 Aspiring Full-Stack Enthusiast passionate about web development, app development, and creating user-centered digital experiences. Eager to deepen my skills in front-end and back-end technologies, I aim to contribute to building innovative applications that enhance user interaction and solve real-world problems. Motivated by a curiosity for technology and a drive to learn, I am committed to growing in these areas and exploring impactful opportunities.
 
 # Mini Projects :
+
 * # <h2>BioBotanica: Medicinal Plant Detection</h2>
 
 BioBotanica is an AI-driven application designed to identify medicinal plants and provide a brief summary of their medicinal properties. It combines state-of-the-art technologies in image classification, natural language processing, and data retrieval to deliver accurate and concise insights. The system simplifies the exploration of medicinal plants, making it accessible to researchers, herbalists, and plant enthusiasts.
@@ -81,7 +82,7 @@ Currently working on it ..
 * [Microsoft Azure AI Engineer Associate](certificate/course/azure.jpg)
 * [Cyber Security Threats](certificate/course/cs_threat.png)
 * [NPTEL-Introduction to Industry 4.0 and Industrial Internet of Things](certificate/course/Introduction_to_Industry_4.0_and_Industrial_Internet_of_Things.pdf)
-* [Coursera- Cloud Developer]()
+* [Coursera- Cloud Developer](certificate/course/google_cloud.pdf)
 * [Introduction to Firewall](certificate/course/intro_to_firewall.png)
 * [Introduction to Mongo DB ](certificate/course/intro_to_mongo-db.pdf)
 * [Network Attacks in Cyber Security](certificate/course/network_attack.png)
@@ -90,6 +91,7 @@ Currently working on it ..
 * [Web Application Attacks](certificate/course/web_application_attacks.png)
 
  # SKILLS
+ 
  <h3>Programing Languages:</h3>
  
  * python 
@@ -107,6 +109,11 @@ Currently working on it ..
  * HTML ,CSS
  * Canva ,Figma
  * Git
+   
+# Coding Platform Profile :
+
+* [Hacker Rank ](https://www.hackerrank.com/profile/varsha230705)
+* [Talently](https://lms.talentely.com/in/2a1de021-abf9-49c0-a288-e833ba56626d)
 
  # Contact Information :
 
