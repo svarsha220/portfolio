@@ -14,6 +14,13 @@ The main purpose of BioBotanica is to harness AI technologies for identifying me
 
 <h5>GitHub Repo of </h5>[BioBotanica](https://github.com/svarsha220/Miniproject_BioBotanica)
 
+* # <h2>task-scheduler</h2>
+
+A interactive Task Manager application built using HTML, CSS, and JavaScript. This app allows users to add, filter, and manage tasks efficiently, with data stored locally using Local Storage.
+The Task Manager helps users stay organized by adding, prioritizing, and tracking tasks efficiently. It is useful for personal productivity, students, professionals, and daily life management. 
+
+<h5>GitHub Repo of </h5>[task-scheduler](https://github.com/svarsha220/task-scheduler)
+
 * # <h2>cid : Investigation-Org-Website</h2>
 
 This website was created as a paid project, developed specifically to meet the needs and requirements of a private investigation organization. The website serves as a professional digital presence for the organization, offering detailed information about their services, team, and contact details. The design and content were tailored to align with the organization’s goals, ensuring a user-friendly and intuitive experience for potential clients.
